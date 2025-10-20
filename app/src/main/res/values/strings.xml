@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Button Color Change</string>
+    <string name="button_red">Button Color Red</string>
+    <string name="button_orange">Button Color Orange</string>
+    <string name="button_yellow">Button Color Yellow</string>
+    <string name="button_green">Button Color Green</string>
+    <string name="button_blue">Button Color Blue</string>
+    <string name="button_violet">Button Color Violet</string>
+</resources>
